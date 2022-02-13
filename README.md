@@ -3,7 +3,7 @@
 Bu paketi http.ResponseWriter'a yazılan dataları debug edebilmek ve değiştirmek için kullanabilirsiniz. 
 
 ## Install
-	go get github.com/akmyazilim/responselogger
+	go get github.com/s4l1h/responselogger
 
 ## Usage [Echo](https://echo.labstack.com/) FrameWork 
 
